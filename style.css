@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(207, 205, 205);
+    background-color: gainsboro;
+    background-size: 100% 120%;
 }
 h1 {box-sizing: border-box;
     position: relative;
@@ -26,7 +27,7 @@ h1 {box-sizing: border-box;
     display: block;
     margin: 0 auto;
     padding: 0 auto;
-    background-color: rgb(255,255,255);
+    background-color: white;
 }
 
 .buttons {
@@ -42,7 +43,7 @@ h1 {box-sizing: border-box;
     font-family: sans-serif;
     width: auto;
     border-color: black;
-    transition: 0.4s;
+    transition: 0.3s;
     font-weight: bold;
 }
 .btn:hover {
